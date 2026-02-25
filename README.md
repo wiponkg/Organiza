@@ -2,7 +2,7 @@
 
 O **Organiza+** é uma aplicação full-stack moderna projetada para ajudar usuários a gerenciarem suas tarefas diárias com eficiência, oferecendo uma visão analítica de sua produtividade através de gráficos e estatísticas.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Frontend
 - **React (Vite)**: Biblioteca principal para construção da interface.
@@ -19,7 +19,7 @@ O **Organiza+** é uma aplicação full-stack moderna projetada para ajudar usu�
 - **Bcrypt.js**: Hash de senhas.
 - **Better-SQLite3**: Banco de dados relacional (utilizado como alternativa portátil ao MySQL para este ambiente).
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - **Autenticação Completa**: Registro, Login e proteção de rotas com JWT.
 - **Gerenciamento de Tarefas (CRUD)**: Criar, editar, excluir e marcar tarefas como concluídas.
@@ -32,7 +32,7 @@ O **Organiza+** é uma aplicação full-stack moderna projetada para ajudar usu�
 - **Exportação**: Download da lista de tarefas em formato CSV.
 - **Interface Moderna**: Suporte a **Dark Mode** e design totalmente responsivo.
 
-## 🛠️ Como Rodar Localmente
+## Como Rodar Localmente
 
 1. Clone o repositório.
 2. Instale as dependências:
@@ -45,7 +45,7 @@ O **Organiza+** é uma aplicação full-stack moderna projetada para ajudar usu�
    ```
 4. Acesse `http://localhost:3000` no seu navegador.
 
-## 🗄️ Estrutura do Banco de Dados
+## Estrutura do Banco de Dados
 
 ### Tabela `users`
 - `id`: INTEGER PRIMARY KEY
@@ -64,7 +64,7 @@ O **Organiza+** é uma aplicação full-stack moderna projetada para ajudar usu�
 - `due_date`: DATE
 - `created_at`: DATETIME
 
-## 💡 O que aprendi desenvolvendo
+## O que aprendi desenvolvendo
 
 Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 - **Integração Full-Stack**: Comunicação eficiente entre React e Express.
