@@ -1,0 +1,5 @@
+{
+  "name": "Organiza+ – Gerenciador de Tarefas",
+  "description": "Uma aplicação full-stack profissional para gerenciamento de tarefas com painel de produtividade, autenticação JWT e análise visual.",
+  "requestFramePermissions": []
+}
