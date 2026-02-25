@@ -1,4 +1,4 @@
-# Organiza+ – Gerenciador de Tarefas com Painel de Produtividade
+# Organiza+ Gerenciador de Tarefas com Painel de Produtividade
 
 O **Organiza+** é uma aplicação full-stack moderna projetada para ajudar usuários a gerenciarem suas tarefas diárias com eficiência, oferecendo uma visão analítica de sua produtividade através de gráficos e estatísticas.
 
