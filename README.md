@@ -71,6 +71,6 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 - **Segurança**: Implementação de fluxos de autenticação robustos com JWT e proteção de rotas no frontend e backend.
 - **UX/UI**: Criação de uma interface "dark mode" nativa e uso de animações para melhorar a experiência do usuário.
 - **Visualização de Dados**: Transformação de dados brutos do banco em insights visuais úteis para o usuário final.
-- **Arquitetura de Software**: Organização de pastas seguindo padrões de mercado (Controllers, Services, Contexts).
+- **Arquitetura de Software**: Organização de pastas seguindo padrões de mercado (Controllers, Servicos, Contexts).
 
 ---
